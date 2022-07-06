@@ -1,6 +1,6 @@
-site: Duet Jekyll Theme
+site: astrulabi.github.io
 
-url: 
+url: https://my-site.github.io
 baseurl: 
 
 collections:
